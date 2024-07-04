@@ -7,10 +7,13 @@ import base64
 from langchain_openai import ChatOpenAI
 from langchain.schema.messages import HumanMessage
 import os
+import toml
+# Set up OpenAI API (replace with your actual API key) in secrets.toml file
 
-# Set up OpenAI API (replace with your actual API key)
-openai_api_key = st.secrets["OPENAI_API_KEY"]
-os.environ["OPENAI_API_KEY"] = openai_api_key
+secrets = toml.load("secrets.toml")
+openai_api_key = secrets["openai"]["OPENAI_API_KEY"]
+
+
 
 st.title("AgriAssist: Your Smart Farming Companion")
 
