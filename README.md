@@ -1,7 +1,7 @@
 # Team-Intellify
 
 ## 1. MediScan: Medical Document Analyzer
-[Mediscan_Deployed_link](https://mediscan-medical-document-analyzer.streamlit.app/)
+[Mediscan Deployed link](https://mediscan-medical-document-analyzer.streamlit.app/)
 
 ### 🏥 Overview
 MediScan is an AI-powered Streamlit application designed to help patients better understand medical documents and assess their symptoms. It addresses the common challenge of medical jargon and complex prescriptions by providing simple explanations and preliminary health assessments.
@@ -65,7 +65,7 @@ MediScan is designed to assist in understanding medical information and is not a
 
 
 ## 2. AgriAssist: Smart Farming Companion  
-[AgriAssist_Deployed_link](https://intellify-agriassist.streamlit.app/)
+[AgriAssist Deployed link](https://intellify-agriassist.streamlit.app/)
 
 
 ### 🌱 Overview
