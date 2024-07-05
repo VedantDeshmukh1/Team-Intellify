@@ -11,7 +11,7 @@ import toml
 
 # Set up OpenAI API (replace with your actual API key) in secrets.toml file
 #secrets = toml.load("secrets.toml")
-openai_api_key = secrets["openai"]["OPENAI_API_KEY"]
+openai_api_key = st.secrets["openai"]["OPENAI_API_KEY"]
 
 st.title("AgriAssist: Your Smart Farming Companion for Indian Agriculture")
 
