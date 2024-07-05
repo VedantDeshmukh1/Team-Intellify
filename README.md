@@ -6,7 +6,7 @@
 
 MediScan is an AI-powered Streamlit application designed to help patients better understand medical documents and assess their symptoms. It addresses the common challenge of medical jargon and complex prescriptions by providing simple explanations and preliminary health assessments.
 
-![MediScan Screenshot]([https://via.placeholder.com/800x400.png?text=MediScan+Screenshot](https://github.com/VedantDeshmukh1/Team-Intellify/blob/main/Screenshots/mediscan.GIF))
+![MediScan Screenshot](https://github.com/VedantDeshmukh1/Team-Intellify/blob/main/Screenshots/mediscan.GIF)
 
 ## 🌟 Features
 
