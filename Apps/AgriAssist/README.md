@@ -14,6 +14,10 @@ AgriAssist is an AI-powered application designed to revolutionize farming practi
 2. **Disease Identification** 🔬
    - Instant plant disease diagnosis using advanced image recognition
    - Detailed analysis including symptoms, causes, and treatment recommendations
+   - 
+2. **Crop Calender** 🔬
+   - Recommends best practices with guidelines for Indian Farmers
+   - A general guide for Indian Farmers
 
 ## 📊 Agriculture Impact Statistics
 
@@ -57,9 +61,6 @@ AgriAssist is an AI-powered application designed to revolutionize farming practi
 - Expansion to cover more countries and crop varieties
 - Machine learning models for yield prediction
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started.
 
 ## 📄 License
 
