@@ -13,7 +13,7 @@ import toml
 #secrets = toml.load("secrets.toml")
 openai_api_key = st.secrets["openai"]["OPENAI_API_KEY"]
 
-st.title("AgriAssist: Your Smart Farming Companion for Indian Agriculture 🌍🌿")
+st.title("AgriAssist: Your Smart Farming Companion for Indian Agriculture")
 
 # Sidebar for navigation
 page = st.sidebar.selectbox("Choose a feature", ["Crop Recommendation", "Disease Identification", "Crop Calendar"])
