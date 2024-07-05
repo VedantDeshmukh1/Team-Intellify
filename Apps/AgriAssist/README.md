@@ -36,7 +36,7 @@ AgriAssist is an AI-powered application designed to revolutionize farming practi
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/VedantDeshmukh1/AgriAssist.git](https://github.com/VedantDeshmukh1/Team-Intellify.git)
+   git clone https://github.com/VedantDeshmukh1/AgriAssist.git](https://github.com/VedantDeshmukh1/Team-Intellify.git
    ```
 2. Install dependencies:
    ```
