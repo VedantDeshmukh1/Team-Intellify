@@ -30,8 +30,8 @@ MediScan is an AI-powered Streamlit application designed to help patients better
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/mediscan.git
-   cd mediscan
+   git clone https://github.com/VedantDeshmukh1/Team-Intellify
+   cd MediScan
    ```
 
 2. Install required packages:
