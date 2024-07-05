@@ -49,6 +49,7 @@ def main():
     
     st.title("🏥 MediScan: Medical Document Analyzer")
     st.write("Upload medical documents or describe symptoms for AI-powered analysis and explanation.")
+    st.write("About MediScan :- MediScan helps patients understand medical documents and assess symptoms. Always consult with healthcare professionals for accurate medical advice.")
 
     tab1, tab2 = st.tabs(["Document Analysis", "Symptom Checker"])
 
@@ -76,11 +77,6 @@ def main():
             st.subheader("Preliminary Assessment:")
             st.write(response)
 
-    st.sidebar.title("About MediScan")
-    st.sidebar.info(
-        "MediScan helps patients understand medical documents and assess symptoms. "
-        "Always consult with healthcare professionals for accurate medical advice."
-    )
-
+  
 if __name__ == "__main__":
     main()
