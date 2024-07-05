@@ -1,6 +1,7 @@
 # Team-Intellify
 
 ## 1. MediScan: Medical Document Analyzer
+[Mediscan_Deployed_link](https://mediscan-medical-document-analyzer.streamlit.app/)
 
 ### 🏥 Overview
 MediScan is an AI-powered Streamlit application designed to help patients better understand medical documents and assess their symptoms. It addresses the common challenge of medical jargon and complex prescriptions by providing simple explanations and preliminary health assessments.
@@ -29,8 +30,8 @@ MediScan is an AI-powered Streamlit application designed to help patients better
 ### 🚀 Installation and Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/mediscan.git
-   cd mediscan
+   git clone https://github.com/VedantDeshmukh1/Team-Intellify.git
+   cd Apps/MediScan
    ```
 2. Install required packages:
    ```
@@ -63,7 +64,9 @@ MediScan is designed to assist in understanding medical information and is not a
 
 
 
-## 2. AgriAssist: Smart Farming Companion
+## 2. AgriAssist: Smart Farming Companion  
+[AgriAssist_Deployed_link](https://intellify-agriassist.streamlit.app/)
+
 
 ### 🌱 Overview
 AgriAssist is an AI-powered application designed to revolutionize farming practices by providing intelligent crop recommendations, disease identification, and customized crop calendars. It aims to empower Indian farmers with data-driven insights for sustainable and efficient agriculture.
@@ -92,8 +95,8 @@ AgriAssist is an AI-powered application designed to revolutionize farming practi
 ### 🚀 Installation and Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/agriassist.git
-   cd agriassist
+   git clone https://github.com/VedantDeshmukh1/Team-Intellify.git
+   cd Apps/AgriAssist
    ```
 2. Install required packages:
    ```
