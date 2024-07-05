@@ -129,7 +129,7 @@ elif page == "Disease Identification":
         base64_image = base64.b64encode(buffered.getvalue()).decode('utf-8')
 
         if st.button("Identify Disease"):
-            chat = ChatOpenAI(model='gpt-4-vision-preview', max_tokens=512)
+            chat = ChatOpenAI(model='gpt-4-vision-preview', max_tokens=512,api_key=openai_api_key)
 
             prompt = """
             As an agricultural expert specializing in Indian crops, analyze the following image of a plant.
