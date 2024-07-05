@@ -86,4 +86,4 @@ For any queries or suggestions, please open an issue on this GitHub repository.
 
 ---
 
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by Intellify
