@@ -160,4 +160,4 @@ elif page == "Disease Identification":
             st.write(output.content)
 
 st.sidebar.markdown("---")
-st.sidebar.info("This app uses AI to provide crop recommendations and identify plant diseases for Indian agriculture. Always consult with local agricultural experts for the most accurate advice.Visit : https://www.tractorjunction.com/")
+st.sidebar.info("This app uses AI to provide crop recommendations and identify plant diseases for Indian agriculture. Always consult with local agricultural experts for the most accurate advice.")
